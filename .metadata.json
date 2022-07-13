@@ -2,5 +2,9 @@
   {
     "package": "iscoCrosswalks",
     "oncran": true
+  },
+  {
+    "package": "labourR",
+    "oncran": true
   }
 ]
