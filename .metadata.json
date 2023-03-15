@@ -1,10 +1,10 @@
 [
   {
-    "package": "iscoCrosswalks",
+    "package": "labourR",
     "oncran": true
   },
   {
-    "package": "labourR",
+    "package": "iscoCrosswalks",
     "oncran": true
   }
 ]
