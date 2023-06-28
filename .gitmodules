@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "iscoCrosswalks"]
 	path = iscoCrosswalks
 	url = https://github.com/eworx-org/iscocrosswalks
-	shallow = true
-	registered = true
 [submodule "labourR"]
 	path = labourR
 	url = https://github.com/eworx-org/labourr
-	shallow = true
-	registered = true
